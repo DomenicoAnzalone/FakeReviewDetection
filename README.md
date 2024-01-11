@@ -23,7 +23,7 @@ TODO: Istruzioni per l'installazione del progetto, ad esempio:
 git clone https://github.com/tuo-username/fake-review-detection.git
 cd fake-review-detection
 pip install -r requirements.txt
-
+```
 
 ## Utilizzo
 TODO: Esempio di come eseguire il progetto,
