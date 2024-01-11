@@ -26,5 +26,9 @@ pip install -r requirements.txt
 ```
 
 ## Utilizzo
-TODO: Esempio di come eseguire il progetto,
+TODO: Esempio di come eseguire il progetto
+
+
+## License
+TODO
 
