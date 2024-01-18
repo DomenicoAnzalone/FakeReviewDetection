@@ -1,4 +1,4 @@
-# Struttura del progetto:
+# Struttura della relazione del progetto:
 
 ### 1. Introduzione
 - **Obiettivo del Progetto**: Descrivi l'obiettivo principale del progetto, ovvero rilevare le fake review online.
