@@ -54,7 +54,7 @@ def isReviewReal(review):
     processed_review = review_preprocessing(review)
 
     # Carica il modello addestrato
-    model_path = 'src/models/model_SVC.pkl'  # Aggiorna il percorso se necessario
+    model_path = 'src/models/svc_model.pkl'  # Aggiorna il percorso se necessario
     model = joblib.load(model_path)
 
     # Definisci i dati e il nome della colonna
