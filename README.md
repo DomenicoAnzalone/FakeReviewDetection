@@ -1,4 +1,4 @@
-# TODO: Nome del Progetto di Fake Review Detection
+# Analisi delle Recensioni False Mediante Machine Learning: Sviluppo di un Bot per la Rilevazione Automatica
 
 ## Descrizione
 Questo progetto implementa un modello di machine learning per rilevare recensioni false su piattaforme online. Utilizzando tecniche di Natural Language Processing e algoritmi di apprendimento supervisionato, il sistema è in grado di identificare recensioni potenzialmente ingannevoli o non autentiche. L'utente può utilizzare il bot "FakeReviewDetector", sviluppato in Telegram per identificare in modo rapido se una recensione di un prodotto o di un servizio trovato online è autentica o meno.
