@@ -29,7 +29,6 @@ Per utilizzare il modello seguire questi passi:
 ```bash
 git clone https://github.com/tuo-username/fake-review-detection.git
 cd fake-review-detection
-pip install -r requirements.txt
 ```
 Se si vuole modificare il codice del bot, bisogna crearne uno personale attraverso BotFather in Telegram e riutilizzare il codice presente all'interno del progetto.
 
