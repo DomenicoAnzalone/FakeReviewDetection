@@ -1,5 +1,10 @@
 # Analisi delle Recensioni False Mediante Machine Learning: Sviluppo di un Bot per la Rilevazione Automatica
 
+## Autori
+[DomenicoAnzalone](https://github.com/DomenicoAnzalone), [pierago01](https://github.com/pierago01)
+
+
+
 ## Descrizione
 Questo progetto implementa un modello di machine learning per rilevare recensioni false su piattaforme online. Utilizzando tecniche di Natural Language Processing e algoritmi di apprendimento supervisionato, il sistema è in grado di identificare recensioni potenzialmente ingannevoli o non autentiche. L'utente può utilizzare il bot "FakeReviewDetector", sviluppato in Telegram per identificare in modo rapido se una recensione di un prodotto o di un servizio trovato online è autentica o meno.
 
@@ -15,7 +20,7 @@ Questo progetto implementa un modello di machine learning per rilevare recension
   Abbiamo utilizzato diverse tecniche di NLP per la pre-elaborazione dei dati, tra cui la conversione in stringa e in lowercase, la tokenizzazione e l'ottimizzazione del testo con lemming e stemming.
 - **Analisi Esplorativa:**
   Gli strumenti utilizzati per l'analisi esplorativa dei dati sono stati Jupyter Notebook per documentare e presentare il flusso di lavoro di analisi e Matplotlib per la creazione e la personalizzazione di grafici e visualizzazioni di dati.  
-- **Valutazione del Modello:** La scelta del modello da utilizzare è stata basata sull'accuratezza di ciascuno algoritmo durante la fase di addestramento.
+- **Valutazione del Modello:** La scelta del modello da utilizzare è stata basata sull'accuratezza di ciascuno algoritmo durante la fase di testing.
 
 ## Prerequisiti
 - Python 3.11.4
